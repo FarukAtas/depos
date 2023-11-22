@@ -1,7 +1,0 @@
-{
-      "version_str":"Yeni Versiyon, Indir!", 
-      "version":"Uygulama Versiyonuz (v1.0)",
-      "title":"Yeni Güncelleme Var!",
-      "change_log":[{"title":"Title 1","text":"title 1 text"},{"title":"Title 2","text":"title 2 text"}],
-      "update_link":"https://raw.githubusercontent.com/FarukAtas/depos/main/serhendupdate.apk" 
-}
