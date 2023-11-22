@@ -1,6 +1,6 @@
 {
       "version_str":"NEW VERSION, DOWNLOAD NOW", 
-      "version":"YOUR APP WERSION (1,2,19 .etc),
+      "version":"YOUR APP WERSION (1,2,19 .etc)",
       "title":"New Update",
       "change_log":[{"title":"Title 1","text":"title 1 text"},{"title":"Title 2","text":"title 2 text"}],
       "update_link":"https://raw.githubusercontent.com/FarukAtas/depos/main/serhendupdate.apk" 
